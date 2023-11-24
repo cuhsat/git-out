@@ -1,0 +1,12 @@
+.\" Manpage for git-out
+.TH man 1 "November 2023" "0.1.0" "git out man page"
+.SH NAME
+git out \- When shit is on fire...
+.SH SYNOPSIS
+git out
+.SH DESCRIPTION
+Will do a commit followed by a forced push.
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Christian Uhsat <christian@uhsat.de>
